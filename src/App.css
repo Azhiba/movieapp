@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;}
+    
+    .stars{
+        margin-right: 20px;
+
+    }.btnadd{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+    }
+     * {background-color: black; }
+
+     .mb-3 {
+        color: azure;
+     }.mb {
+        margin-bottom: 1rem!important;
+        /* margin: 164px; */
+        margin-left: 164px! important;
+        margin-right: 926px !important;
+        width: 100 px!important;
+        margin-top: 25px;
+    }
